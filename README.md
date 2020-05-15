@@ -6,7 +6,7 @@ This is inspired by the `brackets/admin-generator` package whose documentation c
 Example of an administration interface generated with this package:
 ![Craftable administration area example](https://docs.getcraftable.com/assets/posts-crud.png "Craftable administration area example")
 
-This packages is part of [Craftable](https://github.com/BRACKETS-by-TRIAD/craftable) (`savannabits/craftable`) - an administration starter kit for Laravel 7. You should definitely have a look :)
+This packages is part of [Craftable](https://github.com/savannabits/craftable) (`savannabits/craftable`) - an administration starter kit for Laravel 7. You should definitely have a look :)
 
 
 ## Documentation
